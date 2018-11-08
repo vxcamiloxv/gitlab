@@ -20,7 +20,7 @@
     "aggregate-error": "^1.0.0",
     "debug": "^4.0.0",
     "escape-string-regexp": "^1.0.5",
-    "got": "^9.1.0",
+    "got": "^9.3.2",
     "parse-path": "^4.0.0",
     "url-join": "^4.0.0"
   },
